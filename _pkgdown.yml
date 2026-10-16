@@ -1,4 +1,4 @@
-url: https://omodolor.github.io/spaAlign/
+url: https://cwru-sdle.github.io/spaAlign/
 
 template:
   bootstrap: 5
@@ -17,7 +17,7 @@ navbar:
     github:
       icon: fab fa-github
       aria-label: GitHub repository
-      href: https://github.com/Omodolor/spaAlign
+      href: https://github.com/cwru-sdle/spaAlign
 
 reference:
   - title: "Functions"
