@@ -2,4 +2,4 @@
 
 ### All vignettes
 
-- [spaAlign](https://omodolor.github.io/spaAlign/articles/getting-started.md):
+- [spaAlign](https://cwru-sdle.github.io/spaAlign/articles/getting-started.md):

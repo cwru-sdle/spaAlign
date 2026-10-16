@@ -12,11 +12,11 @@ visualization, and chemofacies/reservoir-quality analysis.
 
 ## Functions
 
-- [`spa_align()`](https://omodolor.github.io/spaAlign/reference/spa_align.md)
+- [`spa_align()`](https://cwru-sdle.github.io/spaAlign/reference/spa_align.md)
   : Stratigraphic Plug Alignment (SPA)
 
 # Articles
 
 ### All vignettes
 
-- [spaAlign](https://omodolor.github.io/spaAlign/articles/getting-started.md):
+- [spaAlign](https://cwru-sdle.github.io/spaAlign/articles/getting-started.md):
