@@ -1,7 +1,7 @@
 # Changelog
 
-## spaAlign 0.0.7
+## spaAlign 0.0.8
 
-CRAN release: 2026-10-09
-
-- Transferred package maintenance to Roger H. French.
+- Added a PNG version of the package logo for compatibility with CRAN
+  HTML help pages and reference manuals.
+- Retained existing GIF assets for backward compatibility.
